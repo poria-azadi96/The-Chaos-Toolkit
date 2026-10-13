@@ -1,0 +1,10 @@
+__pycache__/
+*.py[cod]
+.ipynb_checkpoints
+.env
+.venv/
+venv/
+*.png
+*.svg
+!assets/*.png
+!assets/*.svg
